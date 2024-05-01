@@ -19,7 +19,7 @@
   - [x] [3.4. コメント](https://doc.rust-jp.rs/book-ja/ch03-04-comments.html)
   - [x] [3.5. 制御構文](https://doc.rust-jp.rs/book-ja/ch03-05-control-flow.html)
 - [ ] [4. 所有権を理解する](https://doc.rust-jp.rs/book-ja/ch04-00-understanding-ownership.html)
-  - [ ] [4.1. 所有権とは？](https://doc.rust-jp.rs/book-ja/ch04-01-what-is-ownership.html)
+  - [x] [4.1. 所有権とは？](https://doc.rust-jp.rs/book-ja/ch04-01-what-is-ownership.html)
   - [ ] [4.2. 参照と借用](https://doc.rust-jp.rs/book-ja/ch04-02-references-and-borrowing.html)
   - [ ] [4.3. スライス](https://doc.rust-jp.rs/book-ja/ch04-03-slices.html)
 - [ ] [5. 構造体を使用して関係のあるデータを構造化する](https://doc.rust-jp.rs/book-ja/ch05-00-structs.html)
