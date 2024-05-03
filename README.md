@@ -36,3 +36,7 @@
   - [ ] [7.3. モジュールツリーの要素を示すためのパス](https://doc.rust-jp.rs/book-ja/ch07-03-paths-for-referring-to-an-item-in-the-module-tree.html)
   - [ ] [7.4. use キーワードでパスをスコープに持ち込む](https://doc.rust-jp.rs/book-ja/ch07-04-bringing-paths-into-scope-with-the-use-keyword.html)
   - [ ] [7.5. モジュールを複数のファイルに分割する](https://doc.rust-jp.rs/book-ja/ch07-05-separating-modules-into-different-files.html)
+- [ ] [8. 一般的なコレクション](https://doc.rust-jp.rs/book-ja/ch08-00-common-collections.html)
+  - [ ] [8.1. ベクタで値のリストを保持する](https://doc.rust-jp.rs/book-ja/ch08-01-vectors.html)
+  - [ ] [8.2. 文字列で UTF-8 でエンコードされたテキストを保持する](https://doc.rust-jp.rs/book-ja/ch08-02-strings.html)
+  - [ ] [8.3. キーとそれに紐づいた値をハッシュマップに格納する](https://doc.rust-jp.rs/book-ja/ch08-03-hash-maps.html)
