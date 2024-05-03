@@ -26,3 +26,7 @@
   - [x] [5.1. 構造体を定義し、インスタンス化する](https://doc.rust-jp.rs/book-ja/ch05-01-defining-structs.html)
   - [x] [5.2. 構造体を使ったプログラム例](https://doc.rust-jp.rs/book-ja/ch05-02-example-structs.html)
   - [x] [5.3. メソッド記法](https://doc.rust-jp.rs/book-ja/ch05-03-method-syntax.html)
+- [ ] [6. Enum と パターンマッチング](https://doc.rust-jp.rs/book-ja/ch06-00-enums.html)
+  - [ ] [6.1. Enum を定義する](https://doc.rust-jp.rs/book-ja/ch06-01-defining-an-enum.html)
+  - [ ] [6.2. match 制御フロー演算子](https://doc.rust-jp.rs/book-ja/ch06-02-match.html)
+  - [ ] [6.3. if let で簡潔な制御フロー](https://doc.rust-jp.rs/book-ja/ch06-03-if-let.html)
