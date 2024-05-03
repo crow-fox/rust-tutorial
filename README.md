@@ -18,7 +18,7 @@
   - [x] [3.3. 関数](https://doc.rust-jp.rs/book-ja/ch03-03-how-functions-work.html)
   - [x] [3.4. コメント](https://doc.rust-jp.rs/book-ja/ch03-04-comments.html)
   - [x] [3.5. 制御構文](https://doc.rust-jp.rs/book-ja/ch03-05-control-flow.html)
-- [ ] [4. 所有権を理解する](https://doc.rust-jp.rs/book-ja/ch04-00-understanding-ownership.html)
+- [x] [4. 所有権を理解する](https://doc.rust-jp.rs/book-ja/ch04-00-understanding-ownership.html)
   - [x] [4.1. 所有権とは？](https://doc.rust-jp.rs/book-ja/ch04-01-what-is-ownership.html)
   - [x] [4.2. 参照と借用](https://doc.rust-jp.rs/book-ja/ch04-02-references-and-borrowing.html)
   - [x] [4.3. スライス](https://doc.rust-jp.rs/book-ja/ch04-03-slices.html)
