@@ -40,3 +40,7 @@
   - [ ] [8.1. ベクタで値のリストを保持する](https://doc.rust-jp.rs/book-ja/ch08-01-vectors.html)
   - [ ] [8.2. 文字列で UTF-8 でエンコードされたテキストを保持する](https://doc.rust-jp.rs/book-ja/ch08-02-strings.html)
   - [ ] [8.3. キーとそれに紐づいた値をハッシュマップに格納する](https://doc.rust-jp.rs/book-ja/ch08-03-hash-maps.html)
+- [ ] [9. エラー処理](https://doc.rust-jp.rs/book-ja/ch09-00-error-handling.html)
+  - [ ] [9.1. panic!で回復不能なエラー](https://doc.rust-jp.rs/book-ja/ch09-01-unrecoverable-errors-with-panic.html)
+  - [ ] [9.2. Result で回復可能なエラー](https://doc.rust-jp.rs/book-ja/ch09-02-recoverable-errors-with-result.html)
+  - [ ] [9.3. panic!すべきかするまいか](https://doc.rust-jp.rs/book-ja/ch09-03-to-panic-or-not-to-panic.html)
